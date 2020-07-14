@@ -25,4 +25,4 @@ The user opens the app. The first screen is displayed: creating the base of the 
 On this page, you can choose the size of the pizza (small, medium or large) as well as the type of crust (thin, regular or thick)
 Using the bottom navigation bar, you can move to the next tab and choose your meat toppings. Some toppings are free, and some will cost extra.
 On the final tab, you can choose the vegetarian toppings. Like the meat, some toppings will be free and some will cost extra.
-Finally, you click the "place order" button. A screen will be displayed which says "thank you for your order
+Finally, you click the "place order" button. A screen will be displayed which says "thank you for your order"
