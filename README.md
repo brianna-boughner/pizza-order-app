@@ -17,7 +17,9 @@ This will create a more enjoyable experience to the customer.
 
 -> USE CASE
 The user opens the app. The first screen is displayed: creating the base of the pizza.
+
 *note - you can move between the three 'tabs' easily throughout the pizza making process, so you can change your mind about toppings*
+
 On this page, you can choose the size of the pizza (small, medium or large) as well as the type of crust (thin, regular or thick)
 Using the bottom navigation bar, you can move to the next tab and choose your meat toppings. Some toppings are free, and some will cost extra.
 On the final tab, you can choose the vegetarian toppings. Like the meat, some toppings will be free and some will cost extra.
