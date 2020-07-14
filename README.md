@@ -31,6 +31,8 @@ Finally, you click the "place order" button. A screen will be displayed which sa
 
 The main components are the following classes, these are the classes to be edited if any changes are made:
 
+[![class-diagram.png](https://i.postimg.cc/0ynfbD5J/class-diagram.png)](https://postimg.cc/QFB5zBTX)
+
 MainActivity.java, which extends AppCompatActivity
 
 -> not much happens here, but the navigation bar at the bottom is built here, and the three other fragments are connected to this main activity.
