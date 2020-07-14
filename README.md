@@ -29,7 +29,7 @@ Finally, you click the "place order" button. A screen will be displayed which sa
 
 ## Architecture
 
-The main components are the following classes:
+The main components are the following classes, these are the classes to be edited if any changes are made:
 
 MainActivity.java, which extends AppCompatActivity
 
@@ -46,3 +46,7 @@ The next three are all 'fragments' of the main activity, and they are used to se
 -> When a topping is selected, it is added to an array (veggies or meat) in MainActivity, which stores everything. 
 
 -> These arrays are referenced when making the graphics "visible" or "invisible". 
+
+The most probable change to this app would be to alter the prices or toppings available. To edit the toppings, this can be done easily by changing the button text in the xml file for meat or veggies (or adding a new checkbox). However, a new png for the topping will also have to be uploaded.
+
+To edit the prices, change what happens in the OnCheckedChange methods for the checkboxes. There is a specific float value that is added/subtracted when the checkbox is clicked. 
