@@ -9,6 +9,7 @@ The app doesn't have a wide variety of 'actors', since the main target is custom
 **Requirements:**
 
 -> USER FRIENDLY
+
 The user must be able to easily create and order their pizza to encourage them to return as a customer.
 There will be a limited amount of functions (only checkboxes for different toppings/sizes)
 The price will be displayed at the top, and updates when the size or toppings change.
@@ -16,6 +17,7 @@ A graphic of the pizza will also be displayed at the top, and when toppings are 
 This will create a more enjoyable experience to the customer.
 
 -> USE CASE
+
 The user opens the app. The first screen is displayed: creating the base of the pizza.
 
 *note - you can move between the three 'tabs' easily throughout the pizza making process, so you can change your mind about toppings*
