@@ -1,6 +1,8 @@
 # pizza-order-app
 
-An app for ordering pizza: customers can create and order a custom pizza.
+An app for ordering pizza: customers can create and order a custom pizza!
+
+Some manual tests are listed in the Wiki page of the repository.
 
 *side note: I drew all of the graphics myself so I hope you enjoy them :)*
 
