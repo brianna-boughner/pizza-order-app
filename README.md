@@ -2,7 +2,7 @@
 
 An app for ordering pizza: customers can create and order a custom pizza.
 
-*side note: I drew all of the graphics myself so I hope you enjoy them*
+*side note: I drew all of the graphics myself so I hope you enjoy them :)*
 
 The app doesn't have a wide variety of 'actors', since the main target is customers of the pizza store.
 
