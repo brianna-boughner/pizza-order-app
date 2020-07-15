@@ -4,11 +4,11 @@ An app for ordering pizza: customers can create and order a custom pizza.
 
 *side note: I drew all of the graphics myself so I hope you enjoy them :)*
 
-The app doesn't have a wide variety of 'actors', since the main target is customers of the pizza store.
-
 ## Requirements
 
-**-> USER FRIENDLY**
+**-> USER FRIENDLY INTERFACE**
+
+The app doesn't have a wide variety of 'actors', since the main target is customers of the pizza store. 
 
 The user must be able to easily create and order their pizza to encourage them to return as a customer.
 There will be a limited amount of functions (only checkboxes for different toppings/sizes)
